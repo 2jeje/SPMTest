@@ -1,4 +1,4 @@
-public struct SPMTest {
+public struct SPMTestB {
     var text = "Hello, World!"
     
     public init(example: String) {
