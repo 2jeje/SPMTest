@@ -16,14 +16,10 @@ let package = Package(
         .library(
             name: "User",
             targets: ["User"]),
+
         .library(
             name: "Friend",
-            type: .dynamic,
-            targets: ["Friend"]),
-        .library(
-            name: "Friend-Dynamic",
-            type: .dynamic,
-            targets: ["Friend"])
+            targets: ["DynamicFriendFramework"])
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -44,11 +40,9 @@ let package = Package(
                 .target(name: "Auth")
             ]
         ),
-        .target(
-            name: "Friend",
-            dependencies: [
-                .target(name: "User")
-            ]
+        .binaryTarget(
+            name: "DynamicFriendFramework",
+            path: "DynamicFriend.xcframework"
         )
     ],
     swiftLanguageVersions: [
