@@ -16,6 +16,14 @@ let package = Package(
         .library(
             name: "User",
             targets: ["User"]),
+        .library(
+            name: "Friend",
+            type: .dynamic,
+            targets: ["Friend"]),
+        .library(
+            name: "Friend-Dynamic",
+            type: .dynamic,
+            targets: ["Friend"])
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
@@ -29,12 +37,21 @@ let package = Package(
             dependencies: [
                 .byName(name: "Alamofire")
             ]
-            ),
+        ),
         .target(
             name: "User",
             dependencies: [
                 .target(name: "Auth")
             ]
+        ),
+        .target(
+            name: "Friend",
+            dependencies: [
+                .target(name: "User")
+            ]
         )
+    ],
+    swiftLanguageVersions: [
+        .v5
     ]
 )
