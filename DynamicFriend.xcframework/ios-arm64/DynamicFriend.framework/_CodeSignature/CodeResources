@@ -4,6 +4,32 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>DynamicFriendResources.bundle/DynamicFriendResources</key>
+		<data>
+		WDbvCXi75T2QUuqEdKkntKqATLQ=
+		</data>
+		<key>DynamicFriendResources.bundle/Info.plist</key>
+		<data>
+		AukNqAtvPOFwRRGkeZD3CMxvraw=
+		</data>
+		<key>DynamicFriendResources.bundle/en.lproj/FriendLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7KJheW5oeHFoSkwy9NFa8qmujP8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>DynamicFriendResources.bundle/ko.lproj/FriendLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yJ4k0jvOSfWbq1c8xqhJWexVCHc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Headers/DynamicFriend-Swift.h</key>
 		<data>
 		KP8lqmGYYsWr4/V4Wa7TRH03X1M=
@@ -22,11 +48,11 @@
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		RI+KtF4g7VqdaAnJGr0jdts/Kjg=
+		LiHgePA5YzyGYPi4EjeE3eLn2kc=
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		YPv07brJ16kq4Bp6PqBOkeLcxU8=
+		2wNzvykCGTTMcV7NuNHleLdxKWY=
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +60,11 @@
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		RI+KtF4g7VqdaAnJGr0jdts/Kjg=
+		LiHgePA5YzyGYPi4EjeE3eLn2kc=
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		YPv07brJ16kq4Bp6PqBOkeLcxU8=
+		2wNzvykCGTTMcV7NuNHleLdxKWY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,6 +73,38 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>DynamicFriendResources.bundle/DynamicFriendResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nYyGuHDP1K7m/LdY9iP9Gqt7jjXax0INat1fJZqFKTI=
+			</data>
+		</dict>
+		<key>DynamicFriendResources.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1945Vw2bOA/9aNnxKOSgqDBv81ThJS3oeevTsHSgPIk=
+			</data>
+		</dict>
+		<key>DynamicFriendResources.bundle/en.lproj/FriendLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Dg3BxGHuzjMpWWY+/lyKe1tyka+wO1z7zpRa3CSvkBA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>DynamicFriendResources.bundle/ko.lproj/FriendLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z5SHehRKo4zW/OTOlrepJZS7frzQkbS5niBXlTx23X8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Headers/DynamicFriend-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -72,14 +130,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cV4XhchgEEpMlF7RF+Mk2sJwKfkruYYaxYTl2JK35AU=
+			aR3FpiC/TI4BL8XdTMnvDh2OncsImFrnpGsjMpu5DQM=
 			</data>
 		</dict>
 		<key>Modules/DynamicFriend.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			REiTGfi0CpExWO5Kr3LyBeZj1Xjoo6U7lIyjSQsXkPA=
+			frJxFTvwC/dVgraCFNRI9jo444wk2uRFfYnUIH+rbl8=
 			</data>
 		</dict>
 		<key>Modules/DynamicFriend.swiftmodule/arm64.swiftdoc</key>
@@ -93,14 +151,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cV4XhchgEEpMlF7RF+Mk2sJwKfkruYYaxYTl2JK35AU=
+			aR3FpiC/TI4BL8XdTMnvDh2OncsImFrnpGsjMpu5DQM=
 			</data>
 		</dict>
 		<key>Modules/DynamicFriend.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			REiTGfi0CpExWO5Kr3LyBeZj1Xjoo6U7lIyjSQsXkPA=
+			frJxFTvwC/dVgraCFNRI9jo444wk2uRFfYnUIH+rbl8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

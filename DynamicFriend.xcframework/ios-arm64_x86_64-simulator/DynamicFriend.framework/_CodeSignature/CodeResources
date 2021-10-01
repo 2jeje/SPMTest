@@ -4,6 +4,36 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>DynamicFriendResources.bundle/DynamicFriendResources</key>
+		<data>
+		QqMxG4t/FQ5YxWcsxHrAAAulqf0=
+		</data>
+		<key>DynamicFriendResources.bundle/Info.plist</key>
+		<data>
+		ZRBa48i+i24hn32iTZfix0cqNgI=
+		</data>
+		<key>DynamicFriendResources.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		wKHRaQDbCBif1JEV5eb+cvZanl0=
+		</data>
+		<key>DynamicFriendResources.bundle/en.lproj/FriendLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7KJheW5oeHFoSkwy9NFa8qmujP8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>DynamicFriendResources.bundle/ko.lproj/FriendLocalizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yJ4k0jvOSfWbq1c8xqhJWexVCHc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Headers/DynamicFriend-Swift.h</key>
 		<data>
 		gSVbQ4V0Qso2jCx5VtcZzyfLfVk=
@@ -22,11 +52,11 @@
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Mu6vWtHCHAI42rAExdaBlNGpf8w=
+		/jKhEUuMkIKPzyLKwqGVbnOL3dM=
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oTIonoX52vtU0x4TQi+3JOuLi8k=
+		fao0W3T8G/RrQQhurthUIF4c0z0=
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +64,11 @@
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		Mu6vWtHCHAI42rAExdaBlNGpf8w=
+		/jKhEUuMkIKPzyLKwqGVbnOL3dM=
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		oTIonoX52vtU0x4TQi+3JOuLi8k=
+		fao0W3T8G/RrQQhurthUIF4c0z0=
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +76,11 @@
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		98nRXeEu4BWnBy/UQZRb4c6Yv2Y=
+		Wf5UjgWjs1lC6NAMvBZaSqUMXU4=
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yUD8nuW5JQntF8/h3G6UUNxnf88=
+		vxRcmgRS4I9+V7Dnn+GniBzfseg=
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -58,11 +88,11 @@
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		98nRXeEu4BWnBy/UQZRb4c6Yv2Y=
+		Wf5UjgWjs1lC6NAMvBZaSqUMXU4=
 		</data>
 		<key>Modules/DynamicFriend.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		yUD8nuW5JQntF8/h3G6UUNxnf88=
+		vxRcmgRS4I9+V7Dnn+GniBzfseg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -71,6 +101,45 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>DynamicFriendResources.bundle/DynamicFriendResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QJJ3K9L9mOnrVQJ4lUfFIkYc8vExOOY/UEimDpe5Drk=
+			</data>
+		</dict>
+		<key>DynamicFriendResources.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wU754jad5kMHK3pQqZjWq9+OTkVmjjcwr6xlH+HyO5Y=
+			</data>
+		</dict>
+		<key>DynamicFriendResources.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OMFX/4+JU6HUa017NZ9TdkCq8yrfCwh1VI40w1g6eiM=
+			</data>
+		</dict>
+		<key>DynamicFriendResources.bundle/en.lproj/FriendLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Dg3BxGHuzjMpWWY+/lyKe1tyka+wO1z7zpRa3CSvkBA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>DynamicFriendResources.bundle/ko.lproj/FriendLocalizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z5SHehRKo4zW/OTOlrepJZS7frzQkbS5niBXlTx23X8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Headers/DynamicFriend-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -96,14 +165,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2uEX+e7+MD9pd8WYjW2u4j0n/T288K0G79hEdUff0po=
+			MDHYnUCrtWMvZQhNTSByor/7kwbAhyNQT7Oy2cBUOpA=
 			</data>
 		</dict>
 		<key>Modules/DynamicFriend.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8A5f9zFjWbLHBdmK/gFZx/t6/+j8DjmBZPIX6hWiGEY=
+			zZgpllM58snaw37P6ehivH1v4nfqY2ZeHvQR+RYjNuU=
 			</data>
 		</dict>
 		<key>Modules/DynamicFriend.swiftmodule/arm64.swiftdoc</key>
@@ -117,14 +186,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2uEX+e7+MD9pd8WYjW2u4j0n/T288K0G79hEdUff0po=
+			MDHYnUCrtWMvZQhNTSByor/7kwbAhyNQT7Oy2cBUOpA=
 			</data>
 		</dict>
 		<key>Modules/DynamicFriend.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8A5f9zFjWbLHBdmK/gFZx/t6/+j8DjmBZPIX6hWiGEY=
+			zZgpllM58snaw37P6ehivH1v4nfqY2ZeHvQR+RYjNuU=
 			</data>
 		</dict>
 		<key>Modules/DynamicFriend.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -138,14 +207,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VW5EZDk/NRU6ad2vOxldY56gm26n/I8OusL7itZRMUA=
+			SnvMej1ryCvKp0QtLddJf5u1UJ2RQcmZUZbZvpFB7nc=
 			</data>
 		</dict>
 		<key>Modules/DynamicFriend.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			whMT08fbkSlPiUrR3wPN1pah64NLqpiA7ENIva7nwCA=
+			lpD8ck72p9fhOtksUrYjHy+znFZSulDnOZor4HjRB9E=
 			</data>
 		</dict>
 		<key>Modules/DynamicFriend.swiftmodule/x86_64.swiftdoc</key>
@@ -159,14 +228,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VW5EZDk/NRU6ad2vOxldY56gm26n/I8OusL7itZRMUA=
+			SnvMej1ryCvKp0QtLddJf5u1UJ2RQcmZUZbZvpFB7nc=
 			</data>
 		</dict>
 		<key>Modules/DynamicFriend.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			whMT08fbkSlPiUrR3wPN1pah64NLqpiA7ENIva7nwCA=
+			lpD8ck72p9fhOtksUrYjHy+znFZSulDnOZor4HjRB9E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
